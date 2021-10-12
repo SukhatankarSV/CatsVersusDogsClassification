@@ -38,7 +38,7 @@ mistune==0.8.4
 nbconvert==5.4.0
 nbformat==4.4.0
 numpy==1.15.4
-opencv-python==3.4.4.19
+opencv-python==3.4.7.28
 pandocfilters==1.4.2
 pickleshare==0.7.5
 ply==3.11
